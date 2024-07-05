@@ -1,0 +1,22 @@
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

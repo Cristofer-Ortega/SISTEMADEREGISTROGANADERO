@@ -1,0 +1,36 @@
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Negocio.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Datos.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Entidad.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Negocio.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Datos.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Entidad.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Negocio.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Entidad.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache

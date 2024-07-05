@@ -1,0 +1,18 @@
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\4M4D3US\Desktop\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Hp\OneDrive\Imágenes\MantenimientoC# (1)\MantenimientoC#\Capa_Datos\obj\Debug\Capa_Datos.pdb
